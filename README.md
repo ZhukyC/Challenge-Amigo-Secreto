@@ -25,7 +25,7 @@ app.js: Archivo con la lógica de JavaScript.
 💻 Cómo Ejecutar el Proyecto
 
 Clona este repositorio en tu máquina local:
-git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+git clone https://github.com/ZhukyC/Challenge-Amigo-Secreto.git
 
 
 Abre el archivo index.html en tu navegador web preferido.
