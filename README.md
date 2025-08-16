@@ -30,10 +30,9 @@ Este proyecto es una aplicación web interactiva para organizar un sorteo del "A
 - **app.js:** Archivo con la lógica de JavaScript.
 
 ## 📇 Cómo Ejecutar el Proyecto
+- [🖥️ Ejecutar Demo](https://github.com/user-attachments/assets/0e530b85-2e19-440e-a805-949f3a5e3e6a)
 
 
-
-- Abre el archivo index.html en tu navegador web preferido.
 ## 📂 Contribuciones
 Siéntete libre de clonar y mejorar este proyecto.
 - git clone https://github.com/ZhukyC/Challenge-Amigo-Secreto.git
