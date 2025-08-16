@@ -2,10 +2,6 @@
 <h1 align="center"><img width="900" height="300" alt="Copilot_20250815_194531" src="https://github.com/user-attachments/assets/113554ce-f067-4995-90da-e35788ca17a1" /></h1>
 
 
-
-
-
-
 Este proyecto es una aplicación web interactiva para organizar un sorteo del "Amigo Secreto". Fue desarrollado como parte de mi formación en el programa Oracle ONE Next Education, con el objetivo de aplicar y consolidar conocimientos en desarrollo web.
 
 ## :hammer: Funcionalidades del proyecto
@@ -29,8 +25,12 @@ Este proyecto es una aplicación web interactiva para organizar un sorteo del "A
 - **style.css:** Archivo para estilos visuales.
 - **app.js:** Archivo con la lógica de JavaScript.
 
+## **Vista previa**
+
+![Adobe Express - Video_250815231537](https://github.com/user-attachments/assets/1657406b-7ad8-4a9d-beae-06ceb4f6f865)
+
 ## 📇 Cómo Ejecutar el Proyecto
-- [🖥️ Ejecutar Demo](https://github.com/user-attachments/assets/0e530b85-2e19-440e-a805-949f3a5e3e6a)
+- [🖥️ Ejecutar Demo](https://zhukyc.github.io/Challenge-Amigo-Secreto/)
 
 
 ## 📂 Contribuciones
